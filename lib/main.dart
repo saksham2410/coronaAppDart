@@ -1,5 +1,5 @@
-import 'package:covid19stats/homepage.dart';
-import 'package:covid19stats/scroll.dart';
+import 'package:coronaApp/homepage.dart';
+import 'package:coronaApp/scroll.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

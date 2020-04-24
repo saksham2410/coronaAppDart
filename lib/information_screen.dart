@@ -1,4 +1,4 @@
-import 'package:covid19stats/faqs.dart';
+import 'package:coronaApp/faqs.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
-import 'package:covid19stats/index.dart';
-import 'package:covid19stats/information_screen.dart';
+import 'package:coronaApp/index.dart';
+import 'package:coronaApp/information_screen.dart';
 
 
 

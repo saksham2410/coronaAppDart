@@ -1,5 +1,5 @@
-import 'package:covid19stats/selectCountry.dart';
-import 'package:covid19stats/parser.dart';
+import 'package:coronaApp/selectCountry.dart';
+import 'package:coronaApp/parser.dart';
 import 'package:liquid_pull_to_refresh/liquid_pull_to_refresh.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
