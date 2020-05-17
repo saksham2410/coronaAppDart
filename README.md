@@ -17,5 +17,5 @@
   <li>liquid_pull_to_refresh: ^1.1.1</li>
   <li>curved_navigation_bar: ^0.3.2</li>
   <li>flutter_svg: ^0.15.0</li>
-  <li>transparent_image: ^1.0.0</li>
+  <li>transparent_image: ^1.0.1</li>
   </ul>
